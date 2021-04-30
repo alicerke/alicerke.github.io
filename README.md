@@ -1,2 +1,0 @@
-# alicerke.github.io
-demo
